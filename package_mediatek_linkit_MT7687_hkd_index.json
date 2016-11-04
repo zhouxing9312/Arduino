@@ -16,8 +16,6 @@
           "category": "Contributed",
           "url": "http://10.20.33.31/arduino/mt7687-1.0.0.tar.bz2",
           "archiveFileName": "mt7687-1.0.0.tar.bz2",
-          "checksum": "SHA-256:ca2d72f4d8a85f9a352536c877a68e00c5faaf458e39ba1246dd709498380566",
-          "size": "16034815",
           "boards": [
             {
               "name": "LinkIt MT7687 HDK"
