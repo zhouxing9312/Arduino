@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "arduino",
-      "maintainer": "Arduino",
-      "websiteURL": "http://www.arduino.cc/",
-      "email": "packages@arduino.cc",
+      "name": "MT76x7",
+      "maintainer": "ArcherMind",
+      "websiteURL": "http://www.archermind.com/",
+      "email": "chunhua.zhou@archermind.com",
       "help": {
-        "online": "http://www.arduino.cc/en/Reference/HomePage"
+        "online": "http://www.archermind.com/"
       },
       "platforms": [
          {
