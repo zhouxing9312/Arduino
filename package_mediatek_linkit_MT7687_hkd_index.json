@@ -14,7 +14,7 @@
           "architecture": "mt7687",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "http://10.20.33.31/arduino/mt7687-1.0.0.tar.bz2",
+          "url": "http://10.20.33.29/work/project/mtk_ard/Arduino/json/mt7687-1.0.0.tar.bz2",
           "archiveFileName": "mt7687-1.0.0.tar.bz2",
           "boards": [
             {
